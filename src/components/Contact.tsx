@@ -92,6 +92,8 @@ const Contact = () => {
             
             {/* Contact Form */}
             <div>
+              {/* Contact form is hidden for now */}
+              {/*
               <form
                 action="https://formsubmit.co/mohamed.mmdouh.dev@gmail.com"
                 method="POST"
@@ -153,6 +155,7 @@ const Contact = () => {
                   Send Message
                 </button>
               </form>
+              */}
             </div>
           </div>
         </div>
