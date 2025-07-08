@@ -10,7 +10,7 @@ const Hero = () => {
           <div className="mb-8">
             <img
               src={myImage}
-              alt="Mohamed Mmdouh"
+              alt="Mohamed Mamdouh"
               className="w-44 h-44 mx-auto mb-6 rounded-full border-4 border-blue-600 dark:border-blue-400 shadow-xl object-cover"
             />
           </div>

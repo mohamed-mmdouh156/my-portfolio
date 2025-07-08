@@ -63,7 +63,7 @@ const Header = () => {
               alt="Logo"
               className="w-12 h-12 rounded-full shadow-md object-cover bg-white p-1"
             />
-            <span className="text-2xl font-bold text-blue-600 dark:text-blue-400">Mohamed Mmdouh</span>
+            <span className="text-2xl font-bold text-blue-600 dark:text-blue-400">Mohamed Mamdouh</span>
           </div>
           
           {/* Desktop Navigation */}

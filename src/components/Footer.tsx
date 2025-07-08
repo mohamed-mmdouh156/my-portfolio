@@ -11,10 +11,10 @@ const Footer = () => {
             <div className="flex flex-col items-center md:items-start text-center md:text-left">
               <img
                 src={myImage}
-                alt="Mohamed Mmdouh"
+                alt="Mohamed Mamdouh"
                 className="w-24 h-24 rounded-full border-4 border-blue-600 dark:border-blue-400 shadow-lg mb-4 object-cover"
               />
-              <h3 className="text-2xl font-bold mb-2 text-blue-700 dark:text-blue-400">Mohamed Mmdouh</h3>
+              <h3 className="text-2xl font-bold mb-2 text-blue-700 dark:text-blue-400">Mohamed Mamdouh</h3>
               <p className="text-gray-600 dark:text-gray-300 leading-relaxed max-w-xs">
                 Passionate Flutter developer creating beautiful, high-performance mobile applications that deliver exceptional user experiences.
               </p>
@@ -66,10 +66,10 @@ const Footer = () => {
           </div>
           <div className="border-t border-gray-200 dark:border-gray-800 pt-8 text-center mt-8">
             <p className="text-gray-500 dark:text-gray-400 flex items-center justify-center gap-2">
-              Made with <Heart size={16} className="text-red-500" /> by Mohamed Mmdouh
+              Made with <Heart size={16} className="text-red-500" /> by Mohamed Mamdouh
             </p>
             <p className="text-gray-400 dark:text-gray-500 text-sm mt-2">
-              © 2024 Mohamed Mmdouh. All rights reserved.
+              © 2024 Mohamed Mamdouh. All rights reserved.
             </p>
           </div>
         </div>

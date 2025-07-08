@@ -42,7 +42,7 @@ const About = () => {
                 Passionate Flutter Developer
               </h3>
               <p className="text-lg text-gray-600 dark:text-gray-300 mb-6 leading-relaxed">
-                I'm Mohamed Mmdouh, a dedicated Flutter developer with a passion for creating 
+                I'm Mohamed Mamdouh, a dedicated Flutter developer with a passion for creating 
                 exceptional mobile experiences. With expertise in Dart and Flutter framework, 
                 I specialize in building cross-platform applications that deliver native performance 
                 and beautiful user interfaces.
